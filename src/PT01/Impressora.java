@@ -1,4 +1,4 @@
-package PT01.Q07;
+package PT01;
 
 public class Impressora {
 

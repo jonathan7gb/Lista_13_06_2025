@@ -1,4 +1,4 @@
-package PT01.Q08;
+package PT01;
 
 public class CalculadoraSimples {
 

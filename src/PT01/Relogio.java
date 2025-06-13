@@ -1,4 +1,4 @@
-package PT01.Q06;
+package PT01;
 public class Relogio {
     private int hora;
 

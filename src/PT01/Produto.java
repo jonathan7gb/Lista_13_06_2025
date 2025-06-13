@@ -1,4 +1,4 @@
-package PT01.Q09;
+package PT01;
 
 public class Produto {
 	private double preco;

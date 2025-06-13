@@ -1,4 +1,4 @@
-package PT01.Q10;
+package PT01;
 
 public class Animal {
 
